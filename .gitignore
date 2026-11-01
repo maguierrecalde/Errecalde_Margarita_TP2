@@ -1,0 +1,5 @@
+data/fashion_mnist_subset.csv
+.venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
